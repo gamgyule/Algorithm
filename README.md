@@ -1,11 +1,7 @@
 # Algorithm
 코딩테스트 풀이
 
-## [Baekjoon](https://www.acmicpc.net/)
-## [Programmers](https://programmers.co.kr/learn/challenges)
-## [Leetcode](https://leetcode.com/problemset/all/)
-
-# Baekjoon
+# [Baekjoon](https://www.acmicpc.net/)
 - [유기농 배추](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon1012.java)
 - [단어 공부](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon1157.java)
 - [DFS와 BFS](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon1260.java)
@@ -14,7 +10,7 @@
 - [바이러스](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon2606.java)
 - [단지번호붙이기](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon2667.java)
 - [토마토](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon7576.java)
-# Programmers
+# [Programmers](https://programmers.co.kr/learn/challenges)
 - [2018 KAKAO) 비밀지도](https://github.com/GamGyule/Algorithm/blob/master/Programmers/2018KAKAO_%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.java)
 - [2022 KAKAO) 신고결과받기](https://github.com/GamGyule/Algorithm/blob/master/Programmers/2022KAKAO_%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0.java)
 - [2022 KAKAO) 실패율](https://github.com/GamGyule/Algorithm/blob/master/Programmers/2022KAKAO_%EC%8B%A4%ED%8C%A8%EC%9C%A8.java)
@@ -35,5 +31,5 @@
 - [연습문제) 직사각형 별찍기](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EB%B3%84%EC%B0%8D%EA%B8%B0.java)
 - [연습문제) 하샤드 수](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%ED%95%98%EC%83%A4%EB%93%9C%EC%88%98.java)
 - [연습문제) 핸드폰 번호 가리기](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%ED%95%B8%EB%93%9C%ED%8F%B0%EB%B2%88%ED%98%B8%EA%B0%80%EB%A6%AC%EA%B8%B0.java)
-# Leetcode
+# [Leetcode](https://leetcode.com/problemset/all/)
 - [Roman to Integer](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/Roman2Integer.java)
