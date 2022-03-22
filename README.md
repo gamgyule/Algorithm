@@ -13,7 +13,7 @@
 # Programmers
 - [2018 KAKAO) 비밀지도](https://github.com/GamGyule/Algorithm/blob/master/Programmers/2018KAKAO_%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.java)
 - [2022 KAKAO) 신고결과받기](https://github.com/GamGyule/Algorithm/blob/master/Programmers/2022KAKAO_%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0.java)
-- [2022 KAKAO) 실패율](https://github.com/GamGyule/Algorithm/blob/master/Programmers/2022KAKAO_%EC%8B%A4%ED%8C%A8%EC%9C%A8.java)(https://github.com/GamGyule/Algorithm/blob/master/Programmers/Summer-WinterCoding_%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.java)
+- [2022 KAKAO) 실패율](https://github.com/GamGyule/Algorithm/blob/master/Programmers/2022KAKAO_%EC%8B%A4%ED%8C%A8%EC%9C%A8.java)
 - [Summer/Winter Coding) 소수만들기](https://github.com/GamGyule/Algorithm/blob/master/Programmers/Summer-WinterCoding_%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.java)
 - [Summer/Winter Coding) 예산](https://github.com/GamGyule/Algorithm/blob/master/Programmers/Summer-WinterCoding_%EC%98%88%EC%82%B0.java)
 - [월간 코드 챌린지 시즌1) 내적](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%9B%94%EA%B0%84%EC%BD%94%EB%93%9C%EC%B1%8C%EB%A6%B0%EC%A7%80%EC%8B%9C%EC%A6%8C1_%EB%82%B4%EC%A0%81.java)
@@ -25,7 +25,7 @@
 - [그리디) 체육복](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EA%B7%B8%EB%A6%AC%EB%94%94_%EC%B2%B4%EC%9C%A1%EB%B3%B5.java)
 - [완전탐색) 모의고사](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.java)
 - [정렬) K번째 수](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%A0%95%EB%A0%AC_K%EB%B2%88%EC%A7%B8%EC%88%98.java)
-- [해시) 완주하지 못한 선수](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%ED%95%B4%EC%8B%9C_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.java)(https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98.java)
+- [해시) 완주하지 못한 선수](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%ED%95%B4%EC%8B%9C_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.java)
 - [연습문제) 문자열 내림차순으로 배치](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98.java)
 - [연습문제) 수박수박수박수박수박?](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95.java)
 - [연습문제) 직사각형 별찍기](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EB%B3%84%EC%B0%8D%EA%B8%B0.java)
