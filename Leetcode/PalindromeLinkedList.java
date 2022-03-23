@@ -25,4 +25,40 @@ class Solution {
 }
 
 // 이중포인터 런너를 사용해서 중간위치 구해보기
-// 중간값을 구한 후 리스트 리버스를한 후 값이 같은지 확인하기
+// 중간값을 구한 후 리버스하고 서로 비교
+
+// class Solution {
+//     public static ListNode reverseNode(ListNode head) {
+//         if (head == null && head.next == null)
+//             return head;
+
+//         ListNode prev = null;
+//         while (head != null) {
+//             ListNode temp = head.next;
+//             head.next = prev;
+//             prev = head;
+//             head = temp;
+//         }
+//         return prev;
+//     }
+//     public boolean isPalindrome(ListNode head) {
+//         ListNode slow = head, fast = head;
+//         while (fast != null && fast.next != null) {
+//             slow = slow.next;
+//             fast = fast.next.next;
+//         }
+//         ListNode reverseHead = null;
+
+//         reverseHead = reverseNode(slow);
+
+//         while (head != null && reverseHead != null) {
+//             if (head.val != reverseHead.val) {
+//                 return false;
+//             }
+//             head = head.next;
+//             reverseHead = reverseHead.next;
+//         }
+
+//         return true;
+//     }
+// }
