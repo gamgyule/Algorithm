@@ -34,4 +34,4 @@
 # [Leetcode](https://leetcode.com/problemset/all/)
 - [Roman to Integer](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/Roman2Integer.java) --- [바로가기](https://leetcode.com/problems/roman-to-integer/)
 - [Palindrome Linked List](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/PalindromeLinkedList.java) --- [바로가기](https://leetcode.com/problems/palindrome-linked-list/)
-  Stack과 Runner기법으로 풀이
+  - Stack과 Runner기법으로 풀이
