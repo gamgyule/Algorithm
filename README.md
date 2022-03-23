@@ -2,7 +2,7 @@
 코딩테스트 풀이
 
 # [Baekjoon](https://www.acmicpc.net/)
-- [유기농 배추](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon1012.java) - [바로가기](https://www.acmicpc.net/problem/1012)
+- [유기농 배추](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon1012.java) --- [바로가기](https://www.acmicpc.net/problem/1012)
 - [단어 공부](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon1157.java) - [바로가기](https://www.acmicpc.net/problem/1157)
 - [DFS와 BFS](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon1260.java) - [바로가기](https://www.acmicpc.net/problem/1260)
 - [숨바꼭질](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon1697.java) - [바로가기](https://www.acmicpc.net/problem/1697)
