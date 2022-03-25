@@ -39,5 +39,5 @@
 - [Middle of the Linked List](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/MiddleoftheLinkedList.java) --- [바로가기](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [RansomNote](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/RansomNote.java) --- [바로가기](https://leetcode.com/problems/ransom-note/)
 - [The K Weakest Rows in a Matrix](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/TheKWeakestRowsinaMatrix.java) --- [바로가기](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
-- [Number of Step to Reduce a Number to Zero](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/TheKWeakestRowsinaMatrix.java) --- [바로가기](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
-- [Richest Customer Wealth](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/TheKWeakestRowsinaMatrix.java) --- [바로가기](https://leetcode.com/problems/richest-customer-wealth/)
+- [Number of Step to Reduce a Number to Zero](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/NumberofSteptoReduceaNumberToZero.java) --- [바로가기](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+- [Richest Customer Wealth](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/RichestCustomerWealth.java) --- [바로가기](https://leetcode.com/problems/richest-customer-wealth/)
