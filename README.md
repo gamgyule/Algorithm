@@ -33,7 +33,7 @@
 - [연습문제) 직사각형 별찍기](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EB%B3%84%EC%B0%8D%EA%B8%B0.java) --- [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12969)
 - [연습문제) 하샤드 수](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%ED%95%98%EC%83%A4%EB%93%9C%EC%88%98.java) --- [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12947)
 - [연습문제) 핸드폰 번호 가리기](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%ED%95%B8%EB%93%9C%ED%8F%B0%EB%B2%88%ED%98%B8%EA%B0%80%EB%A6%AC%EA%B8%B0.java) --- [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12948)
-- [연습문제) JadenCase문자열 만들기]() --- [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12951)
+- [연습문제) JadenCase문자열 만들기](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_JadenCase.java) --- [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12951)
 # [Leetcode](https://leetcode.com/problemset/all/)
 - [Roman to Integer](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/Roman2Integer.java) --- [바로가기](https://leetcode.com/problems/roman-to-integer/)
 - [Palindrome Linked List](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/PalindromeLinkedList.java) --- [바로가기](https://leetcode.com/problems/palindrome-linked-list/)
