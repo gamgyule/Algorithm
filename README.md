@@ -56,4 +56,4 @@
 - [The K Weakest Rows in a Matrix](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/TheKWeakestRowsinaMatrix.java) --- [바로가기](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 - [Number of Step to Reduce a Number to Zero](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/NumberofSteptoReduceaNumberToZero.java) --- [바로가기](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 - [Richest Customer Wealth](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/RichestCustomerWealth.java) --- [바로가기](https://leetcode.com/problems/richest-customer-wealth/)
-- [Palindrome Number](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/RichestCustomerWealth.java) --- [바로가기](https://leetcode.com/problems/palindrome-number/)
+- [Palindrome Number](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/PalindromeNumber.java) --- [바로가기](https://leetcode.com/problems/palindrome-number/)
