@@ -1,22 +1,25 @@
 import java.util.Scanner;
 
 public class Main {
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
 
-        String[] input = sc.nextLine().split(" ");
+        int dp[] = new int[n + 3];
+        dp[1] = 1;
+        dp[2] = 2;
+        dp[3] = 3;
 
-        String str1 = input[0];
-        String str2 = input[1];
+        if (n < 4) {
+            System.out.println(dp[n]);
+            return;
+        }
 
-        str1 = new StringBuffer(str1).reverse().toString();
-        str2 = new StringBuffer(str2).reverse().toString();
+        for (int i = 4; i <= n; i++) {
+            dp[i] = (dp[i - 1] + dp[i - 2]) % 10007;
+        }
 
-        int a = Integer.parseInt(str1);
-        int b = Integer.parseInt(str2);
-
-        System.out.println((a > b) ? a : b);
+        System.out.println(dp[n]);
     }
 
 }
