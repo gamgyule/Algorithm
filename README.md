@@ -10,6 +10,7 @@
 - [바이러스](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon2606.java) --- [바로가기](https://www.acmicpc.net/problem/2606)
 - [단지번호붙이기](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon2667.java) --- [바로가기](https://www.acmicpc.net/problem/2667)
 - [토마토](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon7576.java) --- [바로가기](https://www.acmicpc.net/problem/7576)
+- [나이트의 이동](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon7562.java) --- [바로가기](https://www.acmicpc.net/problem/7562)
 - [단어의 개수](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon1152.java) --- [바로가기](https://www.acmicpc.net/problem/1152)
 - [상수](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon2908.java) --- [바로가기](https://www.acmicpc.net/problem/2908)
 - [DP) 피보나치 수 2 바텀업](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon2748.java) --- [바로가기](https://www.acmicpc.net/problem/2748)
