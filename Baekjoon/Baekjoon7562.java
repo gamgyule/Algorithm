@@ -18,7 +18,6 @@ class Main {
             int[] targetPos = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
             
             visitedInt = new int[boardWidth][boardWidth];
-            q.clear();
     
             if(currPos[0] == targetPos[0] && currPos[1] == targetPos[1]){
                 result[i] = 0;
@@ -42,10 +41,11 @@ class Main {
     }
 
     static int[][] visitedInt;
-    static Queue<Pos> q = new LinkedList<>();
     static int[] dx = {1,1,-1,-1,2,2,-2,-2};
     static int[] dy = {2,-2,2,-2,1,-1,1,-1};
     public static int bfs(Pos currPos, Pos targetPos){
+        
+        Queue<Pos> q = new LinkedList<>();
         q.add(new Pos(currPos.x,currPos.y));
         visitedInt[currPos.x][currPos.y] = 1;
         while(!q.isEmpty()){
