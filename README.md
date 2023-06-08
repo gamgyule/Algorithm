@@ -1,7 +1,9 @@
 # Algorithm
+
 코딩테스트 풀이
 
 # [Baekjoon](https://www.acmicpc.net/)
+
 - [유기농 배추](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon1012.java) --- [바로가기](https://www.acmicpc.net/problem/1012)
 - [단어 공부](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon1157.java) --- [바로가기](https://www.acmicpc.net/problem/1157)
 - [DFS와 BFS](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon1260.java) --- [바로가기](https://www.acmicpc.net/problem/1260)
@@ -19,7 +21,9 @@
 - [DP) 2xN 타일링](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon11726.java) --- [바로가기](https://www.acmicpc.net/problem/11726)
 - [DP) 파도반 수열](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon9461.java) --- [바로가기](https://www.acmicpc.net/problem/9461)
 - [DP) 01타일](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon1904.java) --- [바로가기](https://www.acmicpc.net/problem/1904)
+
 # [Programmers](https://programmers.co.kr/learn/challenges)
+
 - [2017 KAKAO) 카카오프렌즈 컬러링북](https://github.com/GamGyule/Algorithm/blob/master/Programmers/2017KAKAO_%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%94%84%EB%A0%8C%EC%A6%88%EC%BB%AC%EB%9F%AC%EB%A7%81%EB%B6%81.java) --- [바로가기](https://programmers.co.kr/learn/courses/30/lessons/1829)
 - [2018 KAKAO) 비밀지도](https://github.com/GamGyule/Algorithm/blob/master/Programmers/2018KAKAO_%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.java) --- [바로가기](https://programmers.co.kr/learn/courses/30/lessons/17681)
 - [2018 KAKAO) 다트게임](https://github.com/GamGyule/Algorithm/blob/master/Programmers/2018KAKAO_%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84.java) --- [바로가기](https://programmers.co.kr/learn/courses/30/lessons/17682)
@@ -54,7 +58,9 @@
 - [연습문제) 문자열 내 마음대로 정렬하기](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.java) --- [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12915)
 - [연습문제) 문자열 다루기 기본](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%8B%A4%EB%A3%A8%EA%B8%B0%EA%B8%B0%EB%B3%B8.java) --- [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12918)
 - [연습문제) 햄버거 만들기](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%ED%96%84%EB%B2%84%EA%B1%B0%EB%A7%8C%EB%93%A4%EA%B8%B0.java) --- [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
+
 # [Leetcode](https://leetcode.com/problemset/all/)
+
 - [Roman to Integer](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/Roman2Integer.java) --- [바로가기](https://leetcode.com/problems/roman-to-integer/)
 - [Palindrome Linked List](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/PalindromeLinkedList.java) --- [바로가기](https://leetcode.com/problems/palindrome-linked-list/)
 - [Two Sum](https://github.com/GamGyule/Algorithm/blob/master/Leetcode/Two%20Sum.java) --- [바로가기](https://leetcode.com/problems/two-sum/)
