@@ -60,6 +60,7 @@
 - [연습문제) 문자열 다루기 기본](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%8B%A4%EB%A3%A8%EA%B8%B0%EA%B8%B0%EB%B3%B8.java) --- [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12918)
 - [연습문제) 햄버거 만들기](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%ED%96%84%EB%B2%84%EA%B1%B0%EB%A7%8C%EB%93%A4%EA%B8%B0.java) --- [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
 - [연습문제) 달리기 경주](https://github.com/GamGyule/Algorithm/blob/master/Programmers/연습문제_달리기경주.java) --- [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
+- [연습문제) 연속된 부분 수열의 합](https://github.com/GamGyule/Algorithm/blob/master/Programmers/연습문제_연속된부분수열의합.java) --- [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/178870)
 
 # [Leetcode](https://leetcode.com/problemset/all/)
 
