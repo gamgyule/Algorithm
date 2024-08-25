@@ -9,6 +9,8 @@
 - [DFS와 BFS](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon1260.java) --- [바로가기](https://www.acmicpc.net/problem/1260)
 - [숨바꼭질](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon1697.java) --- [바로가기](https://www.acmicpc.net/problem/1697)
 - [미로 탐색](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon2178.java) --- [바로가기](https://www.acmicpc.net/problem/2178)
+- [전자레인지](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon10162.java) --- [바로가기](https://www.acmicpc.net/problem/10162)
+- [기타줄](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon1049.java) --- [바로가기](https://www.acmicpc.net/problem/1049)
 - [바이러스](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon2606.java) --- [바로가기](https://www.acmicpc.net/problem/2606)
 - [단지번호붙이기](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon2667.java) --- [바로가기](https://www.acmicpc.net/problem/2667)
 - [토마토](https://github.com/GamGyule/Algorithm/blob/master/Baekjoon/Baekjoon7576.java) --- [바로가기](https://www.acmicpc.net/problem/7576)
@@ -61,7 +63,7 @@
 - [연습문제) 햄버거 만들기](https://github.com/GamGyule/Algorithm/blob/master/Programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%ED%96%84%EB%B2%84%EA%B1%B0%EB%A7%8C%EB%93%A4%EA%B8%B0.java) --- [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
 - [연습문제) 달리기 경주](https://github.com/GamGyule/Algorithm/blob/master/Programmers/연습문제_달리기경주.java) --- [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
 - [연습문제) 연속된 부분 수열의 합](https://github.com/GamGyule/Algorithm/blob/master/Programmers/연습문제_연속된부분수열의합.java) --- [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/178870)
-- [코딩테스트 입문) 안전지대] (https://github.com/GamGyule/Algorithm/blob/master/Programmers/코딩테스트입문_안전지대.java) --- [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/120866)
+- [코딩테스트 입문) 안전지대](https://github.com/GamGyule/Algorithm/blob/master/Programmers/코딩테스트입문_안전지대.java) --- [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/120866)
 
 # [Leetcode](https://leetcode.com/problemset/all/)
 
