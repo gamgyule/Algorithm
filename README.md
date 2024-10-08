@@ -64,6 +64,7 @@
 - [연습문제) 달리기 경주](https://github.com/GamGyule/Algorithm/blob/master/Programmers/연습문제_달리기경주.java) --- [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
 - [연습문제) 연속된 부분 수열의 합](https://github.com/GamGyule/Algorithm/blob/master/Programmers/연습문제_연속된부분수열의합.java) --- [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/178870)
 - [코딩테스트 입문) 안전지대](https://github.com/GamGyule/Algorithm/blob/master/Programmers/코딩테스트입문_안전지대.java) --- [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/120866)
+- [PCCP*기출문제\_3번) 충돌위험*찾기](https://github.com/GamGyule/Algorithm/blob/master/Programmers/PCCP_기출문제_3번_충돌위험_찾기.java) --- [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)
 
 # [Leetcode](https://leetcode.com/problemset/all/)
 
