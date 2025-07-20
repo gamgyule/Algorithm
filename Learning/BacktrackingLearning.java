@@ -61,10 +61,11 @@ public class Main {
 
         // 문제 8: 단어 검색
         char[][] board8 = {
-                {'A', 'B'},
-                {'C', 'D'}
+                {'A', 'S', 'C', 'E'},
+                {'S', 'C', 'C', 'S'},
+                {'A', 'B', 'E', 'D'}
         };
-        String word8 = "ACD";
+        String word8 = "ABCCED"; // true
         System.out.println("[문제 8] 단어 검색");
         System.out.println(exist(board8, word8));
     }
@@ -305,6 +306,42 @@ public class Main {
     }
 
     public static boolean exist(char[][] board, String word) {
+        int rows = board.length;
+        int cols = board[0].length;
+        boolean[][] visited = new boolean[rows][cols];
+        int[] dx = {0, 1, 0, -1};
+        int[] dy = {1, 0, -1, 0};
+
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                if (board[i][j] == word.charAt(0)) {
+                    visited[i][j] = true;
+                    if (sol8Backtrack(board, visited, word, i, j, 1, dx, dy))
+                        return true;
+                    visited[i][j] = false;
+                }
+            }
+        }
+        return false;
+    }
+
+    public static boolean sol8Backtrack(char[][] board, boolean[][] visited, String word,
+                                        int x, int y, int index, int[] dx, int[] dy) {
+        if (index == word.length()) return true;
+
+        for (int dir = 0; dir < 4; dir++) {
+            int nx = x + dx[dir];
+            int ny = y + dy[dir];
+
+            if (nx >= 0 && ny >= 0 && nx < board.length && ny < board[0].length) {
+                if (!visited[nx][ny] && board[nx][ny] == word.charAt(index)) {
+                    visited[nx][ny] = true;
+                    if (sol8Backtrack(board, visited, word, nx, ny, index + 1, dx, dy))
+                        return true;
+                    visited[nx][ny] = false;
+                }
+            }
+        }
         return false;
     }
 }
